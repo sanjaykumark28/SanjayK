@@ -1,2 +1,2 @@
 # SanjayK
-Sanjay's Photo
+Sanjay's Photo and name
